@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riwazp21
-- 👀 I’m interested in software development and data science
+- 👀 I’m interested in software development, mathematics, economics and data science
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on open source projects
 
